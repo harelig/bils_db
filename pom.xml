@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>bils-db-core</module>
+
     </modules>
 </project>
 
